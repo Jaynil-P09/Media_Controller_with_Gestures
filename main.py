@@ -1,3 +1,4 @@
+#The basic hand tracking software
 import cv2
 import mediapipe as mp
 
